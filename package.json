@@ -1,0 +1,26 @@
+{
+  "name": "casperjs-searchscraper",
+  "version": "1.0.1",
+  "description": "Javascript search engines scraper library based on casperjs. Currently supports google, google images, yahoo, baidu.",
+  "main": "lib/search-engines-scraper.js",
+  "scripts": {
+    "test": "casperjs examples.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hastenax/casperjs-search-engines-scraper.git"
+  },
+  "keywords": [
+    "casperjs",
+    "google",
+    "yahoo",
+    "baidu",
+    "parser",
+    "scraper"
+  ],
+  "author": "Vladislav Galyanin",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hastenax/casperjs-search-engines-scraper/issues"
+  }
+}
